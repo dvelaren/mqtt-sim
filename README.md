@@ -9,8 +9,8 @@ This is a simple MQTT data simulator that can be used to simulate data. The simu
 2. Create a virtual environment and activate it
 
    ```bash
-    python -m venv venv
-    source venv/bin/activate
+   python -m venv venv
+   source venv/bin/activate
    ```
 
 3. Install the required Python packages
